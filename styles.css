@@ -1,0 +1,61 @@
+html {
+  font-family: Tahoma;
+  font-size: 16px;
+  color: #000f1f;
+}
+
+body {
+  width: 100%;
+  height: 100vh;
+  margin: 0;
+  background-color: #ececec;
+}
+
+main {
+  max-width: 600px;
+  margin: auto;
+  padding: 0 2rem;
+}
+
+h1 {
+  font-family: 'Arial Narrow Bold', sans-serif;
+  margin: auto;
+  font-size: 2rem;
+  text-align: center;
+  margin-top: 10px;
+}
+
+h2 {
+  font-style: italic;
+  font-size: 1rem;
+  text-align: center;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: auto;
+}
+
+figure {
+  background-color: rgb(252, 251, 251);
+  padding: 5%;
+  width: 100%;
+  box-sizing: border-box;
+  margin: 0;
+}
+
+figcaption {
+  font-style: italic;
+  text-align: center;
+  padding-top: 1rem;
+}
+
+p {
+  font-size: 16px;
+}
+
+#tribute-link {
+  color: rgb(255, 88, 10);
+}
